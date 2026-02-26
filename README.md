@@ -6,9 +6,6 @@
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
-![Supports armhf Architecture][armhf-shield]
-![Supports armv7 Architecture][armv7-shield]
-![Supports i386 Architecture][i386-shield]
 
 [![GitHub Actions][github-actions-shield]][github-actions]
 ![Project Maintenance][maintenance-shield]
@@ -78,7 +75,7 @@ our [GitHub Repository][repository].
 
 MIT License
 
-Copyright (c) 2018-2024 Franck Nijhof
+Copyright (c) 2018-2025 Franck Nijhof
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -100,8 +97,6 @@ SOFTWARE.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [commits-shield]: https://img.shields.io/github/commit-activity/y/hassio-addons/addon-unifi.svg
 [commits]: https://github.com/hassio-addons/addon-unifi/commits/main
 [contributors]: https://github.com/hassio-addons/addon-unifi/graphs/contributors
@@ -116,10 +111,9 @@ SOFTWARE.
 [github-actions]: https://github.com/hassio-addons/addon-unifi/actions
 [github-sponsors-shield]: https://frenck.dev/wp-content/uploads/2019/12/github_sponsor.png
 [github-sponsors]: https://github.com/sponsors/frenck
-[i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [issue]: https://github.com/hassio-addons/addon-unifi/issues
 [license-shield]: https://img.shields.io/github/license/hassio-addons/addon-unifi.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
